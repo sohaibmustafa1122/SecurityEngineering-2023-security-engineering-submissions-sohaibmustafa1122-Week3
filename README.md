@@ -3,7 +3,7 @@ Week3-TASKS
 
 
 
-###Task 1: Lock-ins
+##Task 1: Lock-ins
 
 Technological lock-in is a condition whereby users or organizations are heavily dependent on a certain technology, and therefore it is expensive to change to another technology. For instance, a firm implementing a software with a closed architecture could experience a lot of difficulty, and incur high costs in transferring to another platform because of the issues of compatibility, and staff training and development (Anderson, 2020). Vendor lock-in, however, is a situation in which the customer is locked into a particular vendor for products or services making it expensive and or impossible to change the provider. An example is using a cloud service provider with tools that are difficult to migrate (Shapiro & Varian, 1999).
 The break-free costs outlined include they are related to the costs of undoing lock-ins including retraining of personnel, reconfiguring existing systems and data migration. These processes can be time-consuming and may cause a lot of interference with business operations. However, this is restricted in a lock-in because it detrimental to innovation, flexibility and escalating the long-term costs. However, it can also provide stable and dependable support from the vendor or technology supplier (Anderson, 2020).
